@@ -5858,3 +5858,61 @@ Entries:
   id: 7170
   time: '2026-07-30T00:58:24.0000000+00:00'
   url: https://github.com/project-wayfarer/wayfarer-14/pull/1407
+- author: Rellu225
+  changes:
+    - type: Add
+      message: Added a drobe vend to the array
+    - type: Tweak
+      message: Tweaked Centcomm
+    - type: Tweak
+      message: Tweaked Rekindle paramedic shuttle.
+    - type: Tweak
+      message: Tweaked Lamplight service shuttle.
+  id: 7171
+  time: '2026-08-06T02:31:46.0000000+00:00'
+  url: https://github.com/project-wayfarer/wayfarer-14/pull/1388
+- author: DevArchwave
+  changes:
+    - type: Fix
+      message: Fixed (removed) ER forced tracking.
+  id: 7172
+  time: '2026-08-06T02:39:36.0000000+00:00'
+  url: https://github.com/project-wayfarer/wayfarer-14/pull/1411
+- author: RoY7x
+  changes:
+    - type: Add
+      message: Missing mugs that were not in the Service Techfab
+    - type: Add
+      message: >-
+        Pitchers to the techfab... Why was this only available via a vending
+        machine?
+    - type: Add
+      message: Two new generic to-go boxes for meals to go!
+  id: 7173
+  time: '2026-08-06T02:40:46.0000000+00:00'
+  url: https://github.com/project-wayfarer/wayfarer-14/pull/1412
+- author: RoY7x
+  changes:
+    - type: Tweak
+      message: Made construction bags now able to hold atmos piping and magnet them up.
+  id: 7174
+  time: '2026-08-06T02:43:34.0000000+00:00'
+  url: https://github.com/project-wayfarer/wayfarer-14/pull/1413
+- author: Nnelg
+  changes:
+    - type: Add
+      message: >-
+        Avali (and Vox to a lesser degree) now can quench their thirst by
+        drinking Ammonia or Space Cleaner!
+    - type: Tweak
+      message: Drinking Space Cleaner now deals damage to non-Avali or Vox.
+  id: 7175
+  time: '2026-08-06T02:47:17.0000000+00:00'
+  url: https://github.com/project-wayfarer/wayfarer-14/pull/1418
+- author: lucentlavender
+  changes:
+    - type: Fix
+      message: Board game pieces will no longer get deleted randomly.
+  id: 7176
+  time: '2026-08-06T18:09:27.0000000+00:00'
+  url: https://github.com/project-wayfarer/wayfarer-14/pull/1424
