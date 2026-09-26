@@ -66,7 +66,7 @@ namespace Content.IntegrationTests.Tests
             "/Maps/_NF/Admin/ninthcircle.yml", // Contains Intercom (all encryption keys)
             // End Frontier
             // Wayfarer: Staff ships
-            "/Maps/_WF/Shuttles/Staff/delivery.yml" // Contains FWD-6500m "Priority"
+            "/Maps/_WF/Shuttles/Staff/delivery.yml", // Contains FWD-6500m "Priority"
             // End Wayfarer
         };
 
