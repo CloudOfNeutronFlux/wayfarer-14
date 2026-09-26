@@ -10,7 +10,7 @@
   parent: BaseVessel
   name: SWS Delivery
   description: A top-of-the line mail vessel for a crew following the most sacred tenet of postal services — delivery must complete.
-  price: 77000 # (59000+365*50)*1 ([appraise on init]+[size]*50)*[+1 primary service]
+  price: 78000 # (60000+365*50)*1 ([appraise on init]+[size]*50)*[+1 primary service]
   category: Medium
   group: Sr
   access: Mail
