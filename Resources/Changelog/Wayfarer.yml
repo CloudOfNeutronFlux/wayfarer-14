@@ -6832,3 +6832,70 @@ Entries:
   id: 7275
   time: '2026-09-28T13:41:19.0000000+00:00'
   url: https://github.com/project-wayfarer/wayfarer-14/pull/1623
+- author: TheSlapper
+  changes:
+    - type: Add
+      message: Added Radio Broadcast Console Flatpack to the AutoTune vendor.
+    - type: Tweak
+      message: Lowered price of the radio receiver.
+  id: 7276
+  time: '2026-10-04T22:50:52.0000000+00:00'
+  url: https://github.com/project-wayfarer/wayfarer-14/pull/1627
+- author: Goodfaun
+  changes:
+    - type: Add
+      message: Icebox crafting
+  id: 7277
+  time: '2026-10-04T22:52:24.0000000+00:00'
+  url: https://github.com/project-wayfarer/wayfarer-14/pull/1631
+- author: Goodfaun
+  changes:
+    - type: Fix
+      message: exploit money involving sex crate and svalinn
+  id: 7278
+  time: '2026-10-04T23:00:47.0000000+00:00'
+  url: https://github.com/project-wayfarer/wayfarer-14/pull/1632
+- author: Goodfaun
+  changes:
+    - type: Fix
+      message: contraband crates no longer give MT
+  id: 7279
+  time: '2026-10-04T23:07:32.0000000+00:00'
+  url: https://github.com/project-wayfarer/wayfarer-14/pull/1633
+- author: Goodfaun
+  changes:
+    - type: Fix
+      message: Avali stomach organ
+  id: 7280
+  time: '2026-10-04T23:14:18.0000000+00:00'
+  url: https://github.com/project-wayfarer/wayfarer-14/pull/1635
+- author: Goodfaun
+  changes:
+    - type: Add
+      message: folding sign, sprite done by Roy Aster
+  id: 7281
+  time: '2026-10-04T23:50:06.0000000+00:00'
+  url: https://github.com/project-wayfarer/wayfarer-14/pull/1636
+- author: cyanfoot
+  changes:
+    - type: Fix
+      message: IPCs can crawl after buckling and unbuckling.
+  id: 7282
+  time: '2026-10-05T00:23:38.0000000+00:00'
+  url: https://github.com/project-wayfarer/wayfarer-14/pull/1625
+- author: Feathernights
+  changes:
+    - type: Add
+      message: Added a rule regarding Metagrudging.
+    - type: Tweak
+      message: Changed the formatting of Rules to be (hopefully) easier to read.
+  id: 7283
+  time: '2026-10-05T01:46:58.0000000+00:00'
+  url: https://github.com/project-wayfarer/wayfarer-14/pull/1637
+- author: RoY7x
+  changes:
+    - type: Fix
+      message: The set self to SSD icon in the verb menu has now been fixed.
+  id: 7284
+  time: '2026-10-05T02:32:48.0000000+00:00'
+  url: https://github.com/project-wayfarer/wayfarer-14/pull/1638
