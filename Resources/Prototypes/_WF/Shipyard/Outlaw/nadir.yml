@@ -27,7 +27,7 @@
   minPlayers: 0
   stations:
     Nadir:
-      stationProto: StandardFrontierVessel
+      stationProto: StandardFrontierAntagVessel
       components:
       - type: StationNameSetup
         mapNameTemplate: 'Zenith {1}'
