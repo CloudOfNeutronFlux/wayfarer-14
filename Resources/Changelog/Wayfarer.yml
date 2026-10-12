@@ -7007,3 +7007,12 @@ Entries:
   id: 7294
   time: '2026-10-12T03:19:42.0000000+00:00'
   url: https://github.com/project-wayfarer/wayfarer-14/pull/1561
+- author: CloudOfNeutronFlux
+  changes:
+    - type: Add
+      message: Added the Hermes MkII-class mail shuttle
+    - type: Remove
+      message: Removed the Hermes-class mail shuttle
+  id: 7295
+  time: '2026-10-12T03:28:57.0000000+00:00'
+  url: https://github.com/project-wayfarer/wayfarer-14/pull/1652
