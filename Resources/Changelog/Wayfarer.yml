@@ -6976,3 +6976,12 @@ Entries:
   id: 7291
   time: '2026-10-12T02:28:54.0000000+00:00'
   url: https://github.com/project-wayfarer/wayfarer-14/pull/1647
+- author: Feathernights
+  changes:
+    - type: Remove
+      message: Syndicate was taken out back and shot. Some remnants may remain.
+    - type: Tweak
+      message: Syndicate Larp tax removed.
+  id: 7292
+  time: '2026-10-12T02:35:19.0000000+00:00'
+  url: https://github.com/project-wayfarer/wayfarer-14/pull/1649
