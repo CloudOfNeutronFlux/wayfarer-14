@@ -7025,3 +7025,16 @@ Entries:
   id: 7296
   time: '2026-10-12T03:29:50.0000000+00:00'
   url: https://github.com/project-wayfarer/wayfarer-14/pull/1655
+- author: Cat-With-A-Computer
+  changes:
+    - type: Add
+      message: Drum mags are now in the mercfab, ammofab, and cgpfab
+    - type: Add
+      message: Folders are now in every lathe
+    - type: Tweak
+      message: Various armor tweaks
+    - type: Fix
+      message: Fixed old ops suit recipe
+  id: 7297
+  time: '2026-10-12T03:34:48.0000000+00:00'
+  url: https://github.com/project-wayfarer/wayfarer-14/pull/1656
