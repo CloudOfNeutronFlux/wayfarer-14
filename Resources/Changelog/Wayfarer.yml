@@ -6946,3 +6946,10 @@ Entries:
   id: 7287
   time: '2026-10-12T02:07:29.0000000+00:00'
   url: https://github.com/project-wayfarer/wayfarer-14/pull/1634
+- author: Goodfaun
+  changes:
+    - type: Add
+      message: Admin spawn effects cleanade, spacelube, spaceglue
+  id: 7288
+  time: '2026-10-12T02:12:33.0000000+00:00'
+  url: https://github.com/project-wayfarer/wayfarer-14/pull/1639
