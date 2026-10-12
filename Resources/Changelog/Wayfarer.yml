@@ -7038,3 +7038,12 @@ Entries:
   id: 7297
   time: '2026-10-12T03:34:48.0000000+00:00'
   url: https://github.com/project-wayfarer/wayfarer-14/pull/1656
+- author: Feathernights
+  changes:
+    - type: Add
+      message: Added Trick or Treat bags!
+    - type: Tweak
+      message: Changed Halloween to start earlier (Oct 11th). Happy Spooky month!
+  id: 7298
+  time: '2026-10-12T04:18:10.0000000+00:00'
+  url: https://github.com/project-wayfarer/wayfarer-14/pull/1658
