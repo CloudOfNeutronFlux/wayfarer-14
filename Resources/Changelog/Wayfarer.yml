@@ -6953,3 +6953,12 @@ Entries:
   id: 7288
   time: '2026-10-12T02:12:33.0000000+00:00'
   url: https://github.com/project-wayfarer/wayfarer-14/pull/1639
+- author: CloudOfNeutronFlux
+  changes:
+    - type: Tweak
+      message: >-
+        Changed SWS Zenith: added an office space to the lobby, moved the server
+        to the bridge, adjusted buttons and the guidebook.
+  id: 7289
+  time: '2026-10-12T02:20:44.0000000+00:00'
+  url: https://github.com/project-wayfarer/wayfarer-14/pull/1644
