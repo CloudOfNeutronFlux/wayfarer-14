@@ -6994,3 +6994,16 @@ Entries:
   id: 7293
   time: '2026-10-12T02:42:47.0000000+00:00'
   url: https://github.com/project-wayfarer/wayfarer-14/pull/1653
+- author: Nnelg
+  changes:
+    - type: Add
+      message: Added Theseus High Orbital Drydock
+    - type: Remove
+      message: Removed Edison Power Plant
+    - type: Tweak
+      message: Plant Manager / Technician roles renamed
+    - type: Tweak
+      message: Energy-to-Air Converter now makes significant amounts of Respiron
+  id: 7294
+  time: '2026-10-12T03:19:42.0000000+00:00'
+  url: https://github.com/project-wayfarer/wayfarer-14/pull/1561
