@@ -6899,3 +6899,12 @@ Entries:
   id: 7284
   time: '2026-10-05T02:32:48.0000000+00:00'
   url: https://github.com/project-wayfarer/wayfarer-14/pull/1638
+- author: Hawk-v3
+  changes:
+    - type: Add
+      message: >-
+        Added a craftable Apprentice Stave equal to a laser pistol for the
+        Aspiring Mage or Esoteric Researcher!
+  id: 7285
+  time: '2026-10-12T01:50:59.0000000+00:00'
+  url: https://github.com/project-wayfarer/wayfarer-14/pull/1624
