@@ -6937,3 +6937,12 @@ Entries:
   id: 7286
   time: '2026-10-12T02:02:06.0000000+00:00'
   url: https://github.com/project-wayfarer/wayfarer-14/pull/1626
+- author: CloudOfNeutronFlux
+  changes:
+    - type: Add
+      message: >-
+        Added Nadir: A premium "science" vessel made with crew comfort in mind
+        (*wink)
+  id: 7287
+  time: '2026-10-12T02:07:29.0000000+00:00'
+  url: https://github.com/project-wayfarer/wayfarer-14/pull/1634
