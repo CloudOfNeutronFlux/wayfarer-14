@@ -6985,3 +6985,12 @@ Entries:
   id: 7292
   time: '2026-10-12T02:35:19.0000000+00:00'
   url: https://github.com/project-wayfarer/wayfarer-14/pull/1649
+- author: cyanfoot
+  changes:
+    - type: Add
+      message: >-
+        Added some new forms to the Doctors and DoC folders. Rebranded existing
+        ones.
+  id: 7293
+  time: '2026-10-12T02:42:47.0000000+00:00'
+  url: https://github.com/project-wayfarer/wayfarer-14/pull/1653
