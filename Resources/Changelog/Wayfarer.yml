@@ -6962,3 +6962,10 @@ Entries:
   id: 7289
   time: '2026-10-12T02:20:44.0000000+00:00'
   url: https://github.com/project-wayfarer/wayfarer-14/pull/1644
+- author: Goodfaun
+  changes:
+    - type: Fix
+      message: player corporation station airlocks and grid file
+  id: 7290
+  time: '2026-10-12T02:22:14.0000000+00:00'
+  url: https://github.com/project-wayfarer/wayfarer-14/pull/1645
