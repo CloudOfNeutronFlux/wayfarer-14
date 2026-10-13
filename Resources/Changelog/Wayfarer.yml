@@ -7068,3 +7068,10 @@ Entries:
   id: 7301
   time: '2026-10-13T01:51:24.0000000+00:00'
   url: https://github.com/project-wayfarer/wayfarer-14/pull/1660
+- author: Feathernights
+  changes:
+    - type: Remove
+      message: Removed the Station Traffic Controller from Spawn and Job Loadouts.
+  id: 7302
+  time: '2026-10-13T02:08:42.0000000+00:00'
+  url: https://github.com/project-wayfarer/wayfarer-14/pull/1662
