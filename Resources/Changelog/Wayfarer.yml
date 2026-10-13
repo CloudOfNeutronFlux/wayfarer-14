@@ -7054,3 +7054,10 @@ Entries:
   id: 7299
   time: '2026-10-13T01:07:13.0000000+00:00'
   url: https://github.com/project-wayfarer/wayfarer-14/pull/1659
+- author: Feathernights
+  changes:
+    - type: Tweak
+      message: Changed Encryption Keys Cap from 7 to 8 in Loadouts.
+  id: 7300
+  time: '2026-10-13T01:10:20.0000000+00:00'
+  url: https://github.com/project-wayfarer/wayfarer-14/pull/1661
