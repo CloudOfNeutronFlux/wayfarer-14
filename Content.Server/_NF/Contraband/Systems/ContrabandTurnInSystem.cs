@@ -146,6 +146,7 @@ public sealed partial class ContrabandTurnInSystem : SharedContrabandTurnInSyste
                 // - anything already being sold
                 // - anything anchored (e.g. light fixtures)
                 // - anything blacklisted (e.g. players).
+                // - anything serialised, at the doubloon console. // Wayfarer
                 if (toSell.Contains(ent) ||
                     _xformQuery.TryGetComponent(ent, out var xform) &&
                     (xform.Anchored || !CanSell(ent, xform)))
