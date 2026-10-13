@@ -7047,3 +7047,10 @@ Entries:
   id: 7298
   time: '2026-10-12T04:18:10.0000000+00:00'
   url: https://github.com/project-wayfarer/wayfarer-14/pull/1658
+- author: Feathernights
+  changes:
+    - type: Fix
+      message: Fixed Mystery Candy turning into errors when reloading a map.
+  id: 7299
+  time: '2026-10-13T01:07:13.0000000+00:00'
+  url: https://github.com/project-wayfarer/wayfarer-14/pull/1659
