@@ -26,9 +26,6 @@
   id: DataChit
 
 - type: Tag
-  id: DepositWhitelist
-
-- type: Tag
   id: LightReplacerTool
 
 - type: Tag

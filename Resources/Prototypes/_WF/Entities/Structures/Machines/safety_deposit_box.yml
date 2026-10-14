@@ -18,9 +18,9 @@
       - Document
       - Paper
       - Write
-      - DepositWhitelist # Allows specific whitelisted items
       components:
       - Clothing
+      - DepositWhitelist
     blacklist:
       components:
       - DepositBlacklist # SHOULD blacklist the item without obliterating tags
