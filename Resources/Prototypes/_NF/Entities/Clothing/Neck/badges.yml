@@ -16,6 +16,7 @@
   - type: Tag
     tags:
     - FitsWallet
+  - type: PinnableBadge
 # end Wayfarer
 
 - type: entity
