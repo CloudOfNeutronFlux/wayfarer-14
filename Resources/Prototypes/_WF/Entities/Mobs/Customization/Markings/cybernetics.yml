@@ -1,0 +1,104 @@
+# Kit-Masks - Base
+
+- type: marking
+  id: AvaliKitMaskBase
+  bodyPart: HeadTop
+  markingCategory: Head
+  speciesRestriction: [ Human, Goblin, Dwarf, Harpy, Avali, Reptilian, Rodentia, Shadekin, Tajaran, Felinid, Chitinid, Moth, SlimePerson, Ovinia ]
+  sprites:
+  - sprite: _WF/Mobs/Customization/cybernetics.rsi
+    state: kit-mask
+
+- type: marking
+  id: AvaliKitMaskArmet
+  bodyPart: HeadTop
+  markingCategory: Head
+  speciesRestriction: [ Human, Goblin, Dwarf, Harpy, Avali, Reptilian, Rodentia, Shadekin, Tajaran, Felinid, Chitinid, Moth, SlimePerson, Ovinia ]
+  colorLinks:
+    armet: kit-mask
+  sprites:
+  - sprite: _WF/Mobs/Customization/cybernetics.rsi
+    state: kit-mask
+  - sprite: _WF/Mobs/Customization/cybernetics.rsi
+    state: armet
+
+- type: marking
+  id: AvaliKitMaskHawk
+  bodyPart: HeadTop
+  markingCategory: Head
+  speciesRestriction: [ Human, Goblin, Dwarf, Harpy, Avali, Reptilian, Rodentia, Shadekin, Tajaran, Felinid, Chitinid, Moth, SlimePerson, Ovinia ]
+  colorLinks:
+    hawk: kit-mask
+  sprites:
+  - sprite: _WF/Mobs/Customization/cybernetics.rsi
+    state: kit-mask
+  - sprite: _WF/Mobs/Customization/cybernetics.rsi
+    state: hawk
+
+- type: marking
+  id: AvaliKitMaskMaw
+  bodyPart: HeadTop
+  markingCategory: Head
+  speciesRestriction: [ Human, Goblin, Dwarf, Harpy, Avali, Reptilian, Rodentia, Shadekin, Tajaran, Felinid, Chitinid, Moth, SlimePerson, Ovinia ]
+  colorLinks:
+    maw: kit-mask
+  sprites:
+  - sprite: _WF/Mobs/Customization/cybernetics.rsi
+    state: kit-mask
+  - sprite: _WF/Mobs/Customization/cybernetics.rsi
+    state: maw
+
+# Kit Mask - Hardpoint
+
+- type: marking
+  id: AvaliKitMaskHardpoints
+  bodyPart: HeadTop
+  markingCategory: Head
+  speciesRestriction: [ Human, Goblin, Dwarf, Harpy, Avali, Reptilian, Rodentia, Shadekin, Tajaran, Felinid, Chitinid, Moth, SlimePerson, Ovinia ]
+  sprites:
+  - sprite: _WF/Mobs/Customization/cybernetics.rsi
+    state: hardpoint-a
+  - sprite: _WF/Mobs/Customization/cybernetics.rsi
+    state: hardpoint-b
+
+# Kit Mask - Visor Effects
+
+- type: marking
+  id: AvaliKitMaskTwoEyes
+  bodyPart: HeadTop
+  markingCategory: Head
+  speciesRestriction: [ Human, Goblin, Dwarf, Harpy, Avali, Reptilian, Rodentia, Shadekin, Tajaran, Felinid, Chitinid, Moth, SlimePerson, Ovinia ]
+  sprites:
+  - sprite: _WF/Mobs/Customization/cybernetics.rsi
+    state: twoeyes
+  shader: unshaded
+
+- type: marking
+  id: AvaliKitMaskFourEyes
+  bodyPart: HeadTop
+  markingCategory: Head
+  speciesRestriction: [ Human, Goblin, Dwarf, Harpy, Avali, Reptilian, Rodentia, Shadekin, Tajaran, Felinid, Chitinid, Moth, SlimePerson, Ovinia ]
+  sprites:
+  - sprite: _WF/Mobs/Customization/cybernetics.rsi
+    state: foureyes
+  shader: unshaded
+
+- type: marking
+  id: AvaliKitMaskSixEyes # Made to fit the Maw/Base Kit-mask
+  bodyPart: HeadTop
+  markingCategory: Head
+  speciesRestriction: [ Human, Goblin, Dwarf, Harpy, Avali, Reptilian, Rodentia, Shadekin, Tajaran, Felinid, Chitinid, Moth, SlimePerson, Ovinia ]
+  sprites:
+  - sprite: _WF/Mobs/Customization/cybernetics.rsi
+    state: sixeyes
+  shader: unshaded
+
+- type: marking
+  id: AvaliKitMaskCyclops
+  bodyPart: HeadTop
+  markingCategory: Head
+  speciesRestriction: [ Human, Goblin, Dwarf, Harpy, Avali, Reptilian, Rodentia, Shadekin, Tajaran, Felinid, Chitinid, Moth, SlimePerson, Ovinia ]
+  sprites:
+  - sprite: _WF/Mobs/Customization/cybernetics.rsi
+    state: cyclops
+  shader: unshaded
