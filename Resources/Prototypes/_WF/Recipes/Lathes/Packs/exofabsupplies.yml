@@ -20,6 +20,7 @@
       - PowerCellSmall
       - PowerCellMedium
       - PowerCageSmall
+      - CableStack
       
 - type: latheRecipePack
   id: WFExosuitRobotechSurgeryStatic
