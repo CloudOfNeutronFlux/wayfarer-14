@@ -10,7 +10,7 @@
   parent: BaseVessel
   name: SWS Finch
   description: A small medical shuttle designed for rescue and service of silicon patients.Treatment of organics is possible, but limited.
-  price: 32000 # (25263+124*50)*1.15 ([appraise on init]+[size]*50)*[+1 primary medical; +0.15 sub-primary robotics]
+  price: 36000 # (25263+124*50)*1.15 ([appraise on init]+[size]*50)*[+1 primary medical; +0.15 sub-primary robotics]
   category: Small
   group: Medical
   shuttlePath: /Maps/_WF/Shuttles/Civilian/finch.yml
