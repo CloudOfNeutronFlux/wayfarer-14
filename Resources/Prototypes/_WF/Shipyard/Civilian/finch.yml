@@ -14,7 +14,7 @@
   category: Small
   group: Medical
   shuttlePath: /Maps/_WF/Shuttles/Civilian/finch.yml
-  guidebookPage: Null
+  guidebookPage: ShipyardFinch
   class:
   - Medical
   engine:
