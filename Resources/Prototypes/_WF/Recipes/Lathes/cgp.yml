@@ -48,12 +48,12 @@
   id: ClothingOuterHardsuitNfsdCombat
   parent: NFBaseHardSuitArmoredRecipe
   result: ClothingOuterHardsuitNfsdCombat
-  
+
 - type: latheRecipe
   parent: ClothingOuterHardsuitNfsdCombat
   id: ClothingOuterHardsuitNfsdCommandRecipe
   result: ClothingOuterHardsuitNfsdCommand
-  
+
 - type: latheRecipe
   parent: NFBaseHardSuitRecipe
   id: ClothingOuterHardsuitNfsdExperimentalRecipe
@@ -121,7 +121,7 @@
     Steel: 2000
     Gold: 500
     Plasma: 300
-    
+
 - type: latheRecipe
   parent: BaseWeaponRecipeSidearm
   id: WeaponEnergyRevolverRecipe
@@ -157,7 +157,7 @@
     Steel: 2500
     Plasteel: 1200
     Plastic: 1500
-    
+
 - type: latheRecipe
   parent: BaseWeaponRecipeLong
   id: NFWeaponRifleAssaultVulcanRecipe
@@ -166,7 +166,7 @@
     Steel: 2400
     Plasteel: 1600
     Plastic: 800
-    
+
 - type: latheRecipe
   parent: BaseWeaponRecipeLong
   id: WeaponEmpEmitterRecipe
@@ -187,7 +187,7 @@
     Steel: 4500
     Plasteel: 3000
     Plastic: 2000
-    
+
 - type: latheRecipe
   parent: BaseWeaponRecipeLong
   id: WFWeaponCGPEnergyShotgunRecipe
@@ -198,7 +198,7 @@
     Plastic: 1500
     Plasteel: 2000
     Plasma: 3000
-    
+
 - type: latheRecipe
   parent: BaseWeaponRecipeLong
   id: NFWeaponEnergyRifleSniperCannonRecipe
@@ -209,7 +209,7 @@
     Steel: 2000
     Plasteel: 1000
     Plasma: 3000
-    
+
 - type: latheRecipe
   parent: BaseWeaponRecipeLong
   id: NFWeaponRifleSniperAspectRecipe
@@ -230,7 +230,7 @@
     Plasteel: 1200
     Cloth: 200
     Wood: 200
-    
+
 - type: latheRecipe
   parent: BaseWeaponRecipeMelee
   id: ClothingBeltSheathRecipe
@@ -239,7 +239,7 @@
     Durathread: 300
     Cloth: 500
     Plastic: 300
-    
+
 - type: latheRecipe
   parent: BaseWeaponRecipeMelee
   id: EnergySwordNfsdRecipe
@@ -250,7 +250,18 @@
     Plasteel: 800
     Plasma: 3000
     ReinforcedPlasmaGlass: 300
-  
+
+- type: latheRecipe
+  parent: BaseShieldRecipe
+  id: EnergyShieldNfsdRecipe
+  result: EnergyShieldNfsd
+  materials:
+    CGPCredit: 1
+    Steel: 800
+    Plasteel: 800
+    Plasma: 3000
+    ReinforcedPlasmaGlass: 300
+
 # Grenades
 - type: latheRecipe
   id: WFGrenadeStinger
@@ -345,7 +356,7 @@
     Steel: 750
     Plastic: 500
     Glass: 100
-    
+
 - type: latheRecipe
   parent: BaseAmmoRecipe
   id: NFGrenadeBatonRecipe
