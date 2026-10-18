@@ -7098,3 +7098,26 @@ Entries:
   id: 7305
   time: '2026-10-18T22:17:13.0000000+00:00'
   url: https://github.com/project-wayfarer/wayfarer-14/pull/1671
+- author: Nnelg
+  changes:
+    - type: Add
+      message: Theseus now has Borg Chargers
+    - type: Fix
+      message: >-
+        Theseus Disposals and Power now (hopefully) work better, misc Access
+        fixes.
+    - type: Tweak
+      message: Theseus spawns ~1.5 km less far from Dusk
+    - type: Tweak
+      message: Shipwright now requires 2 hours of Wayfarer playtime
+    - type: Tweak
+      message: Restricted Engineering (e.g. RCD, Tesla) now accessible to Shipwrights
+    - type: Tweak
+      message: >-
+        Bolstered Theseus and Dusk budgets x5, reduced CGP budget -20% (CGP
+        still gets more than the rest combined)
+    - type: Tweak
+      message: Shipwright and Project Manager now use "wrench" icons
+  id: 7306
+  time: '2026-10-18T22:18:54.0000000+00:00'
+  url: https://github.com/project-wayfarer/wayfarer-14/pull/1676
