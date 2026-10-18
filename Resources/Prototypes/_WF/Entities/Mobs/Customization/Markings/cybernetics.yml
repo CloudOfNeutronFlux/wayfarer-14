@@ -1,7 +1,7 @@
 # Kit-Masks - Base
 
 - type: marking
-  id: AvaliKitMaskBase
+  id: KitMaskBase
   bodyPart: HeadTop
   markingCategory: Head
   speciesRestriction: [ Human, Goblin, Dwarf, Harpy, Avali, Reptilian, Rodentia, Shadekin, Tajaran, Felinid, Chitinid, Moth, SlimePerson, Ovinia ]
@@ -10,7 +10,7 @@
     state: kit-mask
 
 - type: marking
-  id: AvaliKitMaskArmet
+  id: KitMaskArmet
   bodyPart: HeadTop
   markingCategory: Head
   speciesRestriction: [ Human, Goblin, Dwarf, Harpy, Avali, Reptilian, Rodentia, Shadekin, Tajaran, Felinid, Chitinid, Moth, SlimePerson, Ovinia ]
@@ -23,7 +23,7 @@
     state: armet
 
 - type: marking
-  id: AvaliKitMaskHawk
+  id: KitMaskHawk
   bodyPart: HeadTop
   markingCategory: Head
   speciesRestriction: [ Human, Goblin, Dwarf, Harpy, Avali, Reptilian, Rodentia, Shadekin, Tajaran, Felinid, Chitinid, Moth, SlimePerson, Ovinia ]
@@ -36,7 +36,7 @@
     state: hawk
 
 - type: marking
-  id: AvaliKitMaskMaw
+  id: KitMaskMaw
   bodyPart: HeadTop
   markingCategory: Head
   speciesRestriction: [ Human, Goblin, Dwarf, Harpy, Avali, Reptilian, Rodentia, Shadekin, Tajaran, Felinid, Chitinid, Moth, SlimePerson, Ovinia ]
@@ -51,7 +51,7 @@
 # Kit Mask - Hardpoint
 
 - type: marking
-  id: AvaliKitMaskHardpoints
+  id: KitMaskHardpoints
   bodyPart: HeadTop
   markingCategory: Head
   speciesRestriction: [ Human, Goblin, Dwarf, Harpy, Avali, Reptilian, Rodentia, Shadekin, Tajaran, Felinid, Chitinid, Moth, SlimePerson, Ovinia ]
@@ -64,7 +64,7 @@
 # Kit Mask - Visor Effects
 
 - type: marking
-  id: AvaliKitMaskTwoEyes
+  id: KitMaskTwoEyes
   bodyPart: HeadTop
   markingCategory: Head
   speciesRestriction: [ Human, Goblin, Dwarf, Harpy, Avali, Reptilian, Rodentia, Shadekin, Tajaran, Felinid, Chitinid, Moth, SlimePerson, Ovinia ]
@@ -74,7 +74,7 @@
   shader: unshaded
 
 - type: marking
-  id: AvaliKitMaskFourEyes
+  id: KitMaskFourEyes
   bodyPart: HeadTop
   markingCategory: Head
   speciesRestriction: [ Human, Goblin, Dwarf, Harpy, Avali, Reptilian, Rodentia, Shadekin, Tajaran, Felinid, Chitinid, Moth, SlimePerson, Ovinia ]
@@ -84,7 +84,7 @@
   shader: unshaded
 
 - type: marking
-  id: AvaliKitMaskSixEyes # Made to fit the Maw/Base Kit-mask
+  id: KitMaskSixEyes # Made to fit the Maw/Base Kit-mask
   bodyPart: HeadTop
   markingCategory: Head
   speciesRestriction: [ Human, Goblin, Dwarf, Harpy, Avali, Reptilian, Rodentia, Shadekin, Tajaran, Felinid, Chitinid, Moth, SlimePerson, Ovinia ]
@@ -94,7 +94,7 @@
   shader: unshaded
 
 - type: marking
-  id: AvaliKitMaskCyclops
+  id: KitMaskCyclops
   bodyPart: HeadTop
   markingCategory: Head
   speciesRestriction: [ Human, Goblin, Dwarf, Harpy, Avali, Reptilian, Rodentia, Shadekin, Tajaran, Felinid, Chitinid, Moth, SlimePerson, Ovinia ]
