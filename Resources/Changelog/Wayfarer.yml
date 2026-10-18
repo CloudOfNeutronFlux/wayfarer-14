@@ -7089,3 +7089,12 @@ Entries:
   id: 7304
   time: '2026-10-18T22:15:17.0000000+00:00'
   url: https://github.com/project-wayfarer/wayfarer-14/pull/1663
+- author: VVersengt
+  changes:
+    - type: Add
+      message: Added new Hardcase pouch item
+    - type: Tweak
+      message: Explosives Case and Hardcase are immune to explosive damage.
+  id: 7305
+  time: '2026-10-18T22:17:13.0000000+00:00'
+  url: https://github.com/project-wayfarer/wayfarer-14/pull/1671
