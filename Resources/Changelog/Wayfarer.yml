@@ -7132,3 +7132,12 @@ Entries:
   id: 7307
   time: '2026-10-18T22:20:31.0000000+00:00'
   url: https://github.com/project-wayfarer/wayfarer-14/pull/1678
+- author: CloudOfNeutronFlux
+  changes:
+    - type: Tweak
+      message: >-
+        Exosuit Fabricator received an update and can now print an array of
+        robotics-related items.
+  id: 7308
+  time: '2026-10-18T22:27:06.0000000+00:00'
+  url: https://github.com/project-wayfarer/wayfarer-14/pull/1677
