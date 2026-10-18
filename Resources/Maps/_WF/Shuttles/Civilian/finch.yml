@@ -4,8 +4,8 @@ meta:
   engineVersion: 267.3.0
   forkId: ""
   forkVersion: ""
-  time: 10/17/2026 19:22:10
-  entityCount: 284
+  time: 10/18/2026 19:40:10
+  entityCount: 285
 maps: []
 grids:
 - 1
@@ -656,6 +656,14 @@ entities:
     - type: Transform
       rot: -1.5707963267948966 rad
       pos: 4.6660314,5.0486245
+      parent: 1
+- proto: BoxFolderMedicalDoctor
+  entities:
+  - uid: 285
+    components:
+    - type: Transform
+      rot: -1.5707963267948966 rad
+      pos: 4.6269436,5.5333652
       parent: 1
 - proto: ButtonFrameCaution
   entities:
