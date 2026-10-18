@@ -7082,3 +7082,10 @@ Entries:
   id: 7303
   time: '2026-10-16T21:49:52.0000000+00:00'
   url: https://github.com/project-wayfarer/wayfarer-14/pull/1667
+- author: CloudOfNeutronFlux
+  changes:
+    - type: Fix
+      message: Fixed Nadir's IFF being on upon buying the ship.
+  id: 7304
+  time: '2026-10-18T22:15:17.0000000+00:00'
+  url: https://github.com/project-wayfarer/wayfarer-14/pull/1663
