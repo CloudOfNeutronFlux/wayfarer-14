@@ -7162,3 +7162,12 @@ Entries:
   id: 7311
   time: '2026-10-19T00:42:00.0000000+00:00'
   url: https://github.com/project-wayfarer/wayfarer-14/pull/1672
+- author: cyanfoot
+  changes:
+    - type: Add
+      message: >-
+        Alternate titles for most roles, selectable in loadout. These are
+        flavour, having the same access/loadout/SOPs
+  id: 7312
+  time: '2026-10-19T01:14:48.0000000+00:00'
+  url: https://github.com/project-wayfarer/wayfarer-14/pull/1664
