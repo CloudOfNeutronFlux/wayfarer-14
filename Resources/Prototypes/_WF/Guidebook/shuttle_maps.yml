@@ -403,7 +403,7 @@
   components:
   - type: Sprite
     sprite: _WF/Guidebook/shuttle_maps/128x96.rsi
-    state: Finch
+    state: finch
   
 - type: entity
   parent: PosterBase
