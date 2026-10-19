@@ -7141,3 +7141,10 @@ Entries:
   id: 7308
   time: '2026-10-18T22:27:06.0000000+00:00'
   url: https://github.com/project-wayfarer/wayfarer-14/pull/1677
+- author: Cat-With-A-Computer
+  changes:
+    - type: Fix
+      message: Bullets no longer phase through some solid objects.
+  id: 7309
+  time: '2026-10-19T00:27:50.0000000+00:00'
+  url: https://github.com/project-wayfarer/wayfarer-14/pull/1640
