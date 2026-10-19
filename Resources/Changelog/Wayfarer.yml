@@ -7082,3 +7082,108 @@ Entries:
   id: 7303
   time: '2026-10-16T21:49:52.0000000+00:00'
   url: https://github.com/project-wayfarer/wayfarer-14/pull/1667
+- author: CloudOfNeutronFlux
+  changes:
+    - type: Fix
+      message: Fixed Nadir's IFF being on upon buying the ship.
+  id: 7304
+  time: '2026-10-18T22:15:17.0000000+00:00'
+  url: https://github.com/project-wayfarer/wayfarer-14/pull/1663
+- author: VVersengt
+  changes:
+    - type: Add
+      message: Added new Hardcase pouch item
+    - type: Tweak
+      message: Explosives Case and Hardcase are immune to explosive damage.
+  id: 7305
+  time: '2026-10-18T22:17:13.0000000+00:00'
+  url: https://github.com/project-wayfarer/wayfarer-14/pull/1671
+- author: Nnelg
+  changes:
+    - type: Add
+      message: Theseus now has Borg Chargers
+    - type: Fix
+      message: >-
+        Theseus Disposals and Power now (hopefully) work better, misc Access
+        fixes.
+    - type: Tweak
+      message: Theseus spawns ~1.5 km less far from Dusk
+    - type: Tweak
+      message: Shipwright now requires 2 hours of Wayfarer playtime
+    - type: Tweak
+      message: Restricted Engineering (e.g. RCD, Tesla) now accessible to Shipwrights
+    - type: Tweak
+      message: >-
+        Bolstered Theseus and Dusk budgets x5, reduced CGP budget -20% (CGP
+        still gets more than the rest combined)
+    - type: Tweak
+      message: Shipwright and Project Manager now use "wrench" icons
+  id: 7306
+  time: '2026-10-18T22:18:54.0000000+00:00'
+  url: https://github.com/project-wayfarer/wayfarer-14/pull/1676
+- author: Feathernights
+  changes:
+    - type: Add
+      message: >-
+        Added new Avali markings: Avian-like (Arms, Legs), Eye Glow (Head),
+        Two-tone Eyes (Head)
+    - type: Add
+      message: 'Added new Kit-Mask markings '
+  id: 7307
+  time: '2026-10-18T22:20:31.0000000+00:00'
+  url: https://github.com/project-wayfarer/wayfarer-14/pull/1678
+- author: CloudOfNeutronFlux
+  changes:
+    - type: Tweak
+      message: >-
+        Exosuit Fabricator received an update and can now print an array of
+        robotics-related items.
+  id: 7308
+  time: '2026-10-18T22:27:06.0000000+00:00'
+  url: https://github.com/project-wayfarer/wayfarer-14/pull/1677
+- author: Cat-With-A-Computer
+  changes:
+    - type: Fix
+      message: Bullets no longer phase through some solid objects.
+  id: 7309
+  time: '2026-10-19T00:27:50.0000000+00:00'
+  url: https://github.com/project-wayfarer/wayfarer-14/pull/1640
+- author: cyanfoot
+  changes:
+    - type: Tweak
+      message: CGP now get an explosion resistant wallet
+  id: 7310
+  time: '2026-10-19T00:35:46.0000000+00:00'
+  url: https://github.com/project-wayfarer/wayfarer-14/pull/1670
+- author: cyanfoot
+  changes:
+    - type: Fix
+      message: Gave Station Staff Janitor access
+  id: 7311
+  time: '2026-10-19T00:42:00.0000000+00:00'
+  url: https://github.com/project-wayfarer/wayfarer-14/pull/1672
+- author: cyanfoot
+  changes:
+    - type: Add
+      message: >-
+        Alternate titles for most roles, selectable in loadout. These are
+        flavour, having the same access/loadout/SOPs
+  id: 7312
+  time: '2026-10-19T01:14:48.0000000+00:00'
+  url: https://github.com/project-wayfarer/wayfarer-14/pull/1664
+- author: poshpotato
+  changes:
+    - type: Add
+      message: >-
+        Added a fax and permit forms to the CGP office on dusk, to allow for
+        permitting from here.
+  id: 7313
+  time: '2026-10-19T01:32:45.0000000+00:00'
+  url: https://github.com/project-wayfarer/wayfarer-14/pull/1679
+- author: VVersengt
+  changes:
+    - type: Add
+      message: Added Night Vision Goggles to the research tree and protolathe.
+  id: 7314
+  time: '2026-10-19T01:50:10.0000000+00:00'
+  url: https://github.com/project-wayfarer/wayfarer-14/pull/1680
