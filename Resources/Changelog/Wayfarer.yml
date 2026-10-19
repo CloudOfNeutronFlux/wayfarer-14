@@ -7180,3 +7180,10 @@ Entries:
   id: 7313
   time: '2026-10-19T01:32:45.0000000+00:00'
   url: https://github.com/project-wayfarer/wayfarer-14/pull/1679
+- author: VVersengt
+  changes:
+    - type: Add
+      message: Added Night Vision Goggles to the research tree and protolathe.
+  id: 7314
+  time: '2026-10-19T01:50:10.0000000+00:00'
+  url: https://github.com/project-wayfarer/wayfarer-14/pull/1680
