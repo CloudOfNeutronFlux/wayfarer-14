@@ -7171,3 +7171,12 @@ Entries:
   id: 7312
   time: '2026-10-19T01:14:48.0000000+00:00'
   url: https://github.com/project-wayfarer/wayfarer-14/pull/1664
+- author: poshpotato
+  changes:
+    - type: Add
+      message: >-
+        Added a fax and permit forms to the CGP office on dusk, to allow for
+        permitting from here.
+  id: 7313
+  time: '2026-10-19T01:32:45.0000000+00:00'
+  url: https://github.com/project-wayfarer/wayfarer-14/pull/1679
